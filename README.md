@@ -43,8 +43,9 @@ This project demonstrates basic DOM manipulation, event handling, and game logic
 ├── script.js
 
 ---
-## 🌐 Live Demo
+## 🌐 Live Demo Link
 
+https://avishi0611.github.io/Tic-Tac-Toe-Game/
 
 ## 📌 Learning Outcome
 
